@@ -1,0 +1,18 @@
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "1IA-76-25c"; */
+"1IA-76-25c.title" = "Back";
+
+/* Class = "UILabel"; text = "Please select calculator type"; ObjectID = "1ZV-Xa-J22"; */
+"1ZV-Xa-J22.text" = "Please select calculator type";
+
+/* Class = "UINavigationItem"; title = "Simple Calculator"; ObjectID = "KaK-d8-YRd"; */
+"KaK-d8-YRd.title" = "Simple Calculator";
+
+/* Class = "UIButton"; normalTitle = "Advanced"; ObjectID = "jZu-TY-rPq"; */
+"jZu-TY-rPq.normalTitle" = "Advanced";
+
+/* Class = "UIButton"; normalTitle = "Simple"; ObjectID = "r1r-4q-F2s"; */
+"r1r-4q-F2s.normalTitle" = "Simple";
+
+/* Class = "UINavigationItem"; title = "Choose Calculator"; ObjectID = "vd3-8W-d0O"; */
+"vd3-8W-d0O.title" = "Choose Calculator";
